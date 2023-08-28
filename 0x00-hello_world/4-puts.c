@@ -1,9 +1,11 @@
 #include<stdio.h>
 /**
- * fisrt code
- */
-int main(void) 
+ *  * Main enTry POint
+ *   *
+ *    * rE:turn: Always 0 (Success)
+ *     */
+int main(void)
 {
-	puts("\""Programming is like building a multilingual puzzle");
-	return (0);
-}
+		puts("\"Programming is like building a multilingual puzzle");
+			return (0);
+} 
