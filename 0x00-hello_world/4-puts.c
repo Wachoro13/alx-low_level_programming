@@ -1,8 +1,8 @@
 #include<stdio.h>
 /**
- *  * Main enTry POint
+ *  * main - Entry point always
  *   *
- *    * rE:turn: Always 0 (Success)
+ *    * Return: always 0 (Success)
  *     */
 int main(void)
 {
